@@ -1,0 +1,15 @@
+net11:MS-AE网络
+net_f:DRFN
+net11_onestage：两网络同时训练
+
+对应的有三个训练文件:
+train_AE:MS-AE网络
+train_UNnet:DRFN
+train_all：两个网络同时训练文件
+
+test文件有两个：
+一阶段训练：RFN_test_onestage.py
+二阶段训练：main.py
+
+dataset:DRFN训练的数据集
+编码网络数据集:coco2017
