@@ -1,0 +1,2 @@
+8-P-stride.model为训练好的编码网络
+alpha_10_wir_3_wvi_1-gama0.1-8-P-L1-SPECT.model为训练好的残差融合网络
